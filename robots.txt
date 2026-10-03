@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f79b1084d0.datouxiansheng.cn/sitemap.xml
